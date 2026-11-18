@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Abdourahmane Soukari — Software Engineering, Systems and Cybersecurity" />
+  <img src="./hero.svg" width="100%" alt="Abdourahmane Soukari — Software Engineering, Systems and Cybersecurity" />
 
   <h3>Building reliable software. Exploring systems. Contributing to open source.</h3>
 
@@ -107,5 +107,5 @@ Contributed to [Ettercap](https://github.com/Ettercap/ettercap) by fixing a segm
 <div align="center">
   <sub>Always learning, building, and improving. Outside technology: music, composition, and aviation.</sub>
   <br /><br />
-  <img src="./assets/footer.svg" width="100%" alt="" />
+  <img src="./footer.svg" width="100%" alt="" />
 </div>
